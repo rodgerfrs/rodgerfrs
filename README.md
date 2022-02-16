@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rodger
 - 👀 I’m interested in dotNet Development
 - 🌱 I’m currently learning ASP.NET Core
-- 💞️ I’m looking to collaborate on twitter
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me rodgerfrs@outlook.com
 
 <!---
