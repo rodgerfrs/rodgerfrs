@@ -2,7 +2,7 @@
 - 👀 I’m interested in dotNet Development
 - 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on twitter
-- 📫 How to reach me rodgerfrs@gmail.com
+- 📫 How to reach me rodgerfrs@outlook.com
 
 <!---
 rodgerfrs/rodgerfrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
